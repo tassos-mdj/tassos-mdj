@@ -1,13 +1,16 @@
 ## Hi there 👋
+I'm Tassos
 
-<!--
-**tassos-mdj/tassos-mdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently employed on a different field (stationary store!)
-- 🌱 I’m currently learning Frontend development,
-      coming from a background with a degree in CS and 7 years in IT.
+- 🌱 I’m in the process of *properly* learning Frontend development
+        through 'The Odin Project', coming from a background
+        with a degree in CS and 7 years in IT.
+
+In the past I have set up several websites, for business purpose or just for fun
+including a fully operational WooCommerce online store, though 90% of everything
+was through no-code tools, such as themplates, plugins and WYSIWYG editors.
+
+I'm aiming for full stack development knowledge and some fun projects!
 
 <!--
 - 👯 I’m looking to collaborate on ...
